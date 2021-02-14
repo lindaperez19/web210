@@ -22,7 +22,7 @@
         }
 
         header {
-            color: floralwhite;
+            color: purple;
             padding: 12px;
             text-align: center;
         }

@@ -22,7 +22,7 @@
         }
 
         header {
-            color: purple;
+            color: white;
             padding: 12px;
             text-align: center;
         }
@@ -48,7 +48,7 @@
         }
 
         main>div {
-            background-color: white;
+            background-color: grey;
             margin: 10px;
             padding: 10px;
             color: white;

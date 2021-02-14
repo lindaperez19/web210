@@ -89,11 +89,11 @@
     
         <main>
             <div class="middle">
-                <h2>Success Criterion 2.4.2 Page Titled: Web pages have titles that describe topic or purpose. </h2>
+                <h1>Success Criterion 2.4.2 Page Titled: Web pages have titles that describe topic or purpose. </h1>
 
                 <h3><a href="https://youtu.be/SxAu5gEVo08">Learn about HTML with this video.</a></h3>
                 
-                <p><a href="https://www.w3schools.com/bootstrap/">Click here for a Bootstrap tutorial with examples.</a></p>
+                <h3><a href="https://www.w3schools.com/bootstrap/">Click here for a Bootstrap tutorial with examples.</a></h3>
 
 
         

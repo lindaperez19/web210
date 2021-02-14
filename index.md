@@ -85,7 +85,7 @@
     </style>
 </head>
 
-<body>
+
     <div id="wrapper">
         <header>
             <h1>Operable, Guideline 2.4 Navigable</h1>
@@ -109,4 +109,4 @@
     </div><!-- end of wrapper -->
 </body>
 
-</html>
+

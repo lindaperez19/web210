@@ -30,6 +30,10 @@
         h1 {
             font-size: 3m;
         }
+        
+         h3 {
+            color: white;
+        }
 
         nav {
             display: flex;

@@ -48,18 +48,14 @@
         }
 
         main>div {
-            background-color: lightslategray;
+            background-color: white;
             margin: 10px;
             padding: 10px;
             color: white;
         }
 
-        .left {
+        .middle {
             flex: 2;
-        }
-
-        .right {
-            flex: 1;
         }
 
         footer {

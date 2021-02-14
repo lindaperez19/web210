@@ -102,11 +102,11 @@
 
         
             
-        </main>
+      
         <footer>
             <p>Copyright&copy;2021</p>
         </footer>
     </div><!-- end of wrapper -->
-</body>
+
 
 
